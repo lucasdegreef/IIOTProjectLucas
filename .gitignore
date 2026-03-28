@@ -1,0 +1,22 @@
+# CODESYS temporary/build files
+*.precompilecache
+*.opt
+*.~u
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+*.copyinfo
+*.export
+*.obj
+
+# Visual Studio / Python / Jupyter
+.vs/
+bin/
+obj/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local/User specific settings
+*.user
+*.suo
