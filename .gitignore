@@ -1,4 +1,10 @@
-CodeSys/
+# CodeSys
+# CodeSys/
+*.opt
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+*.precompilecache
 
 # Visual Studio / C#
 [Bb]in/
