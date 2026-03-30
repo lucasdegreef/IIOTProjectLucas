@@ -1,1 +1,11 @@
 CodeSys/
+
+# Visual Studio / C#
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
