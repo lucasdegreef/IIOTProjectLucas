@@ -1,4 +1,4 @@
-﻿namespace OpcuaConnectorLucas
+namespace OpcuaConnectorLucas
 {
     internal class Program
     {
@@ -10,6 +10,8 @@
 
             Console.WriteLine("you gave me: " + getal);
 
+            Console.WriteLine("Great job");
+            // helloow world
 
         }
     }
